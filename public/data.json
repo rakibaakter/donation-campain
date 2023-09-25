@@ -1,5 +1,5 @@
 {
-  "products": [
+  "donations": [
     {
       "id": 1,
       "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
@@ -13,10 +13,10 @@
     },
     {
       "id": 2,
-      "picture": "https://i.ibb.co/JK5pnHq/Education.pnghttps://i.ibb.co/y8jP433/Health.png",
+      "picture": "https://i.ibb.co/y8jP433/Health.png",
       "title": "Clean water for children",
       "category": "Health",
-      "category_bg_color": "#0052FFFF33",
+      "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
       "description": "Experience a healthier you with Product 2. These health-boosting supplements are designed to enhance your well-being. Packed with essential nutrients and carefully formulated, they support your overall health. Say goodbye to fatigue and hello to vitality. Invest in your health today!",
@@ -46,28 +46,6 @@
     },
     {
       "id": 5,
-      "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
-      "title": " Used Clothing Drive",
-      "category": "Clothing",
-      "category_bg_color": "#79C23F33",
-      "card_bg_color": "#79C23F26",
-      "text_button_bg_color": "#79C23F",
-      "description": "Dress to impress with Product 5, a designer clothing ensemble that exudes elegance. Crafted with precision and attention to detail, this ensemble offers sophistication and style. Whether it's a special occasion or a formal event, you'll stand out in the crowd. Elevate your fashion game and make a statement!",
-      "price": 199.99
-    },
-    {
-      "id": 6,
-      "picture": "https://i.ibb.co/JK5pnHq/Education.pnghttps://i.ibb.co/y8jP433/Health.png",
-      "title": "Clean water for children",
-      "category": "Health",
-      "category_bg_color": "#0052FFFF33",
-      "card_bg_color": "#0052FF26",
-      "text_button_bg_color": "#0052FF",
-      "description": "Achieve your fitness goals with Product 6, a comprehensive equipment set. Strengthen your body and improve your endurance. From cardio workouts to strength training, it has you covered. Invest in your health and well-being. Start your fitness journey today!",
-      "price": 199.99
-    },
-    {
-      "id": 7,
       "picture": "https://i.ibb.co/JK5pnHq/Education.png",
       "title": "Good education",
       "category": "Education",
@@ -78,7 +56,7 @@
       "price": 89.99
     },
     {
-      "id": 8,
+      "id": 6,
       "picture": "https://i.ibb.co/f9GNS8v/Food.png",
       "title": "Better Food for Everyone",
       "category": "Food",
@@ -87,6 +65,28 @@
       "text_button_bg_color": "#F87147",
       "description": "Nourish your body with Product 8, an organic food basket. Enjoy the pure and natural flavors of organically grown produce. From fresh fruits to wholesome grains, it's a healthy choice. Embrace a sustainable lifestyle and savor the goodness of nature!",
       "price": 39.99
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
+      "title": " Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Dress to impress with Product 5, a designer clothing ensemble that exudes elegance. Crafted with precision and attention to detail, this ensemble offers sophistication and style. Whether it's a special occasion or a formal event, you'll stand out in the crowd. Elevate your fashion game and make a statement!",
+      "price": 199.99
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/y8jP433/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "Achieve your fitness goals with Product 6, a comprehensive equipment set. Strengthen your body and improve your endurance. From cardio workouts to strength training, it has you covered. Invest in your health and well-being. Start your fitness journey today!",
+      "price": 199.99
     },
     {
       "id": 9,
@@ -101,10 +101,10 @@
     },
     {
       "id": 10,
-      "picture": "https://i.ibb.co/JK5pnHq/Education.pnghttps://i.ibb.co/y8jP433/Health.png",
+      "picture": "https://i.ibb.co/y8jP433/Health.png",
       "title": "Clean water for children",
       "category": "Health",
-      "category_bg_color": "#0052FFFF33",
+      "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
       "description": "Find inner peace with Product 10, a yoga essentials kit. Create a tranquil space for your practice and connect mind, body, and soul. From yoga mats to meditation cushions, it has all you need. Begin your journey to relaxation and well-being today!",
@@ -112,17 +112,6 @@
     },
     {
       "id": 11,
-      "picture": "https://i.ibb.co/JK5pnHq/Education.pngg",
-      "title": "Good education",
-      "category": "Education",
-      "category_bg_color": "#FF444A33",
-      "card_bg_color": "#FF444A26",
-      "text_button_bg_color": "#FF444A",
-      "description": "Ignite young minds with Product 11, a science exploration kit. Encourage curiosity and hands-on learning. This kit includes interactive experiments and educational materials to make science fun and engaging. Nurture the scientist within!",
-      "price": 59.99
-    },
-    {
-      "id": 12,
       "picture": "https://i.ibb.co/f9GNS8v/Food.pngg",
       "title": "Better Food for Everyonebook",
       "category": "Food",
@@ -131,6 +120,17 @@
       "text_button_bg_color": "#F87147",
       "description": "Satisfy your sweet cravings with Product 12, a delicious dessert cookbook. Explore a world of mouthwatering treats, from decadent cakes to creamy ice creams. Impress your guests or indulge in self-care. Treat yourself to the joy of baking!",
       "price": 19.99
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/JK5pnHq/Education.pngg",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "Ignite young minds with Product 11, a science exploration kit. Encourage curiosity and hands-on learning. This kit includes interactive experiments and educational materials to make science fun and engaging. Nurture the scientist within!",
+      "price": 59.99
     }
   ]
 }
