@@ -3,7 +3,8 @@ import DonationContainer from "../../components/Donations/DonationContainer/Dona
 
 const Home = () => {
   const { donations } = useLoaderData();
-  console.log(donations);
+  // console.log(donations);
+
   return (
     <div>
       {/* <h2>Hello from home</h2> */}

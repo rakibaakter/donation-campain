@@ -1,7 +1,9 @@
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 
 const DonationCard = ({ donation }) => {
   const {
+    id,
     picture,
     title,
     category,
@@ -14,21 +16,24 @@ const DonationCard = ({ donation }) => {
     backgroundColor: card_bg_color,
     color: text_button_bg_color,
     borderRedius: "8px 8px 0px 0px",
+    cursor: "pointer",
   };
 
   return (
     <div style={card}>
-      <img src={picture} alt="" />
+      <Link to={`/donation/${id}`}>
+        <img src={picture} alt="" />
 
-      <div className="p-6">
-        <span
-          className="font-medium p-2 rounded-md"
-          style={{ backgroundColor: category_bg_color }}
-        >
-          {category}
-        </span>
-        <h2 className="text-xl font-semibold mt-4">{title}</h2>
-      </div>
+        <div className="p-6">
+          <span
+            className="font-medium p-2 rounded-md"
+            style={{ backgroundColor: category_bg_color }}
+          >
+            {category}
+          </span>
+          <h2 className="text-xl font-semibold mt-4">{title}</h2>
+        </div>
+      </Link>
     </div>
   );
 };
