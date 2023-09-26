@@ -4,7 +4,7 @@ import {
   getDataFromLocalStore,
   saveDataToLocalStore,
 } from "../../LocalStorage/localStore";
-// import saveDataToLocalStore from "../../LocalStorage/localStore";
+import swal from "sweetalert";
 
 const DonationDetails = () => {
   // for set item
@@ -27,6 +27,17 @@ const DonationDetails = () => {
     const isExist = prevDonate.find((prev) => prev.id === item.id);
     if (!isExist) {
       saveDataToLocalStore(item);
+      swal(
+        "Thank you for your Donation!",
+        "Your mighty our pleasures!",
+        "success"
+      );
+    } else {
+      swal(
+        "Oops! you already donate in this field",
+        "Please Donate in another field",
+        "error"
+      );
     }
   };
 
