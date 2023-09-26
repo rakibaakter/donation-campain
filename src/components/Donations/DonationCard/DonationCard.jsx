@@ -22,7 +22,7 @@ const DonationCard = ({ donation }) => {
   return (
     <div style={card}>
       <Link to={`/donation/${id}`}>
-        <img src={picture} alt="" />
+        <img className="w-full" src={picture} alt="" />
 
         <div className="p-6">
           <span
