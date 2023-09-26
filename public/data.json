@@ -8,7 +8,8 @@
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Help us provide warm clothing to those in need with our Warmth for Winter Drive. As the cold season approaches, your support can make a significant difference. Your donation will go towards supplying winter coats, hats, gloves, and blankets to individuals and families who struggle to stay warm during the chilliest months. We believe that no one should face the harsh winter without proper clothing, and your contribution can bring warmth and comfort to those who need it most. Join us in spreading the spirit of warmth and kindness this winter!"
+      "description": "Help us provide warm clothing to those in need with our Warmth for Winter Drive. As the cold season approaches, your support can make a significant difference. Your donation will go towards supplying winter coats, hats, gloves, and blankets to individuals and families who struggle to stay warm during the chilliest months. We believe that no one should face the harsh winter without proper clothing, and your contribution can bring warmth and comfort to those who need it most.",
+      "price": 25.0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Join our Healthy Hydration Project and make a positive impact on the lives of children in need. Your contribution will help provide clean and safe drinking water to schools and communities where access to this basic necessity is limited. Access to clean water is a fundamental right, and your support will ensure that children have a healthy start in life. With your help, we can install water purification systems and ensure a sustainable supply of clean water to those who need it most. Join us in quenching their thirst for a brighter and healthier future!"
+      "description": "Join our Healthy Hydration Project and make a positive impact on the lives of children in need. Your contribution will help provide clean and safe drinking water to schools and communities where access to this basic necessity is limited. Access to clean water is a fundamental right, and your support will ensure that children have a healthy start in life. With your help, we can install water purification systems and ensure a sustainable supply of clean water to those who need it most.",
+      "price": 20.0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Empower young minds with our 'Books for Bright Minds' campaign. Your donation will provide educational books, learning materials, and resources to underprivileged schools and libraries. We believe that every child deserves access to quality education, and your support can make it possible. Together, we can write a brighter future, one book at a time. Join us in the journey to ignite a lifelong love for learning and knowledge among children from disadvantaged backgrounds."
+      "description": "Empower young minds with our 'Books for Bright Minds' campaign. Your donation will provide educational books, learning materials, and resources to underprivileged schools and libraries. We believe that every child deserves access to quality education, and your support can make it possible. Together, we can write a brighter future, one book at a time. Join us in the journey to ignite a lifelong love for learning and knowledge among children from disadvantaged backgrounds.",
+      "price": 15.0
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Join our Hunger Relief Initiative and help us combat food insecurity in our community. Your donation will go directly towards providing nutritious meals, food packages, and groceries to individuals and families facing hunger. We believe that no one should go to bed hungry, and with your support, we can make this belief a reality. Let's nourish lives, alleviate hunger, and create a world where everyone has access to healthy and fulfilling meals."
+      "description": "Join our Hunger Relief Initiative and help us combat food insecurity in our community. Your donation will go directly towards providing nutritious meals, food packages, and groceries to individuals and families facing hunger. We believe that no one should go to bed hungry, and with your support, we can make this belief a reality. Let's nourish lives, alleviate hunger, and create a world where everyone has access to healthy and fulfilling meals.",
+      "price": 30.0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Support our 'Computers for Classrooms' campaign and bridge the digital divide in education. Your contribution will help equip schools with computers, technology resources, and internet access, ensuring that students have access to modern learning tools. We believe that every child deserves an equal opportunity to thrive in the digital age, and your support can make it happen. Empower the next generation with the skills they need to succeed in an increasingly connected world."
+      "description": "Support our 'Computers for Classrooms' campaign and bridge the digital divide in education. Your contribution will help equip schools with computers, technology resources, and internet access, ensuring that students have access to modern learning tools. We believe that every child deserves an equal opportunity to thrive in the digital age, and your support can make it happen. Empower the next generation with the skills they need to succeed in an increasingly connected world.",
+      "price": 40.0
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Join our 'Meals on Wheels' program and make a significant difference in the lives of homebound seniors. Your donation will support the delivery of hot, nutritious meals to seniors who may otherwise go hungry. We believe in ensuring that our elders receive the care and nourishment they deserve. Your contribution will not only provide food but also bring companionship and support to those who may be isolated. Help us drive away hunger and loneliness among our senior community members!"
+      "description": "Join our 'Meals on Wheels' program and make a significant difference in the lives of homebound seniors. Your donation will support the delivery of hot, nutritious meals to seniors who may otherwise go hungry. We believe in ensuring that our elders receive the care and nourishment they deserve. Your contribution will not only provide food but also bring companionship and support to those who may be isolated. Help us drive away hunger and loneliness among our senior community members!",
+      "price": 10.0
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Give the gift of warmth and comfort to children in need with our Cozy Kids Clothing Drive. Your donation will provide cozy winter clothing, including sweaters, scarves, boots, and blankets, to children from low-income families. We believe that every child deserves to feel warm and secure during the winter season, and your contribution can make it happen. Let's wrap these kids in love and warmth as we prepare them for a cozy winter ahead!"
+      "description": "Give the gift of warmth and comfort to children in need with our Cozy Kids Clothing Drive. Your donation will provide cozy winter clothing, including sweaters, scarves, boots, and blankets, to children from low-income families. We believe that every child deserves to feel warm and secure during the winter season, and your contribution can make it happen.",
+      "price": 15.0
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Support our 'Healthy Start for Newborns' initiative and ensure a bright beginning for infants in need. Your donation will provide essential healthcare supplies, vaccinations, maternal support, and access to medical care to newborns and mothers in underserved communities. We believe in giving every baby a healthy start in life, regardless of their circumstances. Join us in providing the care and support that newborns and mothers need for a promising future!"
+      "description": "Support our 'Healthy Start for Newborns' initiative and ensure a bright beginning for infants in need. Your donation will provide essential healthcare supplies, vaccinations, maternal support, and access to medical care to newborns and mothers in underserved communities. We believe in giving every baby a healthy start in life, regardless of their circumstances. Join us in providing the care and support that newborns and mothers need for a promising future!",
+      "price": 50.0
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Join our Winter Shelter Project and provide warmth and safety to those experiencing homelessness during the cold winter months. Your donation will support the operation of winter shelters, providing a refuge from the cold for individuals without homes. We believe in making the winter season a bit warmer and safer for our neighbors in need. Your contribution will offer a warm bed, hot meals, and access to essential services for those who have nowhere else to turn."
+      "description": "Join our Winter Shelter Project and provide warmth and safety to those experiencing homelessness during the cold winter months. Your donation will support the operation of winter shelters, providing a refuge from the cold for individuals without homes. We believe in making the winter season a bit warmer and safer for our neighbors in need. Your contribution will offer a warm bed, hot meals, and access to essential services for those who have nowhere else to turn.",
+      "price": 35.0
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Empower young minds with proper nutrition through our 'Nutrition for School Kids' program. Your donation will help provide healthy meals, snacks, and nutrition education to schoolchildren, ensuring they have the energy, focus, and nutrition they need to succeed in their studies. We believe in nourishing their minds and bodies for a brighter future. Join us in supporting the educational and nutritional needs of the next generation!"
+      "description": "Empower young minds with proper nutrition through our 'Nutrition for School Kids' program. Your donation will help provide healthy meals, snacks, and nutrition education to schoolchildren, ensuring they have the energy, focus, and nutrition they need to succeed in their studies. We believe in nourishing their minds and bodies for a brighter future. Join us in supporting the educational and nutritional needs of the next generation!",
+      "price": 10.0
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Support the growth of our Community Garden and cultivate a sustainable source of fresh produce for all. Your donation will help expand the garden, providing more fruits, vegetables, and herbs to the community. We believe in nourishing our neighborhood with healthy, homegrown food, and your contribution can help make it happen. Let's dig in, grow together, and create a thriving garden that benefits everyone in our community!"
+      "description": "Support the growth of our Community Garden and cultivate a sustainable source of fresh produce for all. Your donation will help expand the garden, providing more fruits, vegetables, and herbs to the community. We believe in nourishing our neighborhood with healthy, homegrown food, and your contribution can help make it happen.",
+      "price": 20.0
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Empower future scientists, engineers, and innovators with our 'STEM Scholarships for All' program. Your donation will provide scholarships to students pursuing careers in STEM fields, ensuring access to quality education, mentorship, and opportunities. We believe in fueling their passion for science and technology and driving progress together. Join us in supporting the dreams and aspirations of aspiring scientists and innovators!"
+      "description": "Empower future scientists, engineers, and innovators with our 'STEM Scholarships for All' program. Your donation will provide scholarships to students pursuing careers in STEM fields, ensuring access to quality education, mentorship, and opportunities. We believe in fueling their passion for science and technology and driving progress together. Join us in supporting the dreams and aspirations of aspiring scientists and innovators!",
+      "price": 50.0
     }
   ]
 }

@@ -9,7 +9,7 @@ const Banner = () => {
   };
   return (
     <div className="relative mb-10 md:mb-32">
-      <div style={bannerStyle} className="opacity-30"></div>
+      <div style={bannerStyle} className="opacity-20"></div>
       <div className="absolute left-0 right-0 top-[20%] h-full">
         <div className="space-y-10 text-center">
           <h2 className="text-4xl font-bold">
@@ -17,7 +17,7 @@ const Banner = () => {
           </h2>
           <div>
             <input
-              className="w-3/5 p-3 border "
+              className="w-1/4 p-3 border "
               type="text"
               placeholder="search here..."
             />
