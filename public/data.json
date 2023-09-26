@@ -3,134 +3,122 @@
     {
       "id": 1,
       "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
-      "title": "Used Clothing Drive",
+      "title": "Warmth for Winter Drive",
       "category": "Clothing",
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Elevate your style with Product 1, a trendy addition to your wardrobe. Its vibrant green design adds a pop of color to your outfit. Made from high-quality materials, it ensures both comfort and durability. Whether for a casual day out or a special occasion, it's a versatile choice. This clothing item is not just about fashion; it's a statement of your unique taste. Get ready to turn heads and receive compliments!",
-      "price": 299.99
+      "description": "Help us provide warm clothing to those in need with our Warmth for Winter Drive. As the cold season approaches, your support can make a significant difference. Your donation will go towards supplying winter coats, hats, gloves, and blankets to individuals and families who struggle to stay warm during the chilliest months. We believe that no one should face the harsh winter without proper clothing, and your contribution can bring warmth and comfort to those who need it most. Join us in spreading the spirit of warmth and kindness this winter!"
     },
     {
       "id": 2,
       "picture": "https://i.ibb.co/y8jP433/Health.png",
-      "title": "Clean water for children",
+      "title": "Healthy Hydration Project",
       "category": "Health",
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Experience a healthier you with Product 2. These health-boosting supplements are designed to enhance your well-being. Packed with essential nutrients and carefully formulated, they support your overall health. Say goodbye to fatigue and hello to vitality. Invest in your health today!",
-      "price": 49.99
+      "description": "Join our Healthy Hydration Project and make a positive impact on the lives of children in need. Your contribution will help provide clean and safe drinking water to schools and communities where access to this basic necessity is limited. Access to clean water is a fundamental right, and your support will ensure that children have a healthy start in life. With your help, we can install water purification systems and ensure a sustainable supply of clean water to those who need it most. Join us in quenching their thirst for a brighter and healthier future!"
     },
     {
       "id": 3,
       "picture": "https://i.ibb.co/JK5pnHq/Education.png",
-      "title": "Good education",
+      "title": "Books for Bright Minds",
       "category": "Education",
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Ignite your curiosity with Product 3. This educational book set is a gateway to knowledge and enlightenment. Dive into fascinating subjects, from history to science, and broaden your horizons. Embark on a journey of learning and discovery. Knowledge is power; empower yourself!",
-      "price": 79.99
+      "description": "Empower young minds with our 'Books for Bright Minds' campaign. Your donation will provide educational books, learning materials, and resources to underprivileged schools and libraries. We believe that every child deserves access to quality education, and your support can make it possible. Together, we can write a brighter future, one book at a time. Join us in the journey to ignite a lifelong love for learning and knowledge among children from disadvantaged backgrounds."
     },
     {
       "id": 4,
       "picture": "https://i.ibb.co/f9GNS8v/Food.png",
-      "title": "Better Food for Everyone",
+      "title": "Hunger Relief Initiative",
       "category": "Food",
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Indulge in culinary delight with Product 4. This gourmet food collection brings exquisite flavors to your table. Savor the richness of fine cuisine and the artistry of gastronomy. Elevate your dining experience and treat yourself to a world of taste. Bon appétit!",
-      "price": 29.99
+      "description": "Join our Hunger Relief Initiative and help us combat food insecurity in our community. Your donation will go directly towards providing nutritious meals, food packages, and groceries to individuals and families facing hunger. We believe that no one should go to bed hungry, and with your support, we can make this belief a reality. Let's nourish lives, alleviate hunger, and create a world where everyone has access to healthy and fulfilling meals."
     },
     {
       "id": 5,
       "picture": "https://i.ibb.co/JK5pnHq/Education.png",
-      "title": "Good education",
+      "title": "Computers for Classrooms",
       "category": "Education",
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Unlock new opportunities with Product 7, a language learning course. Master a new language and open doors to communication and cultural exploration. Whether for travel or career growth, language proficiency is invaluable. Start your linguistic adventure now!",
-      "price": 89.99
+      "description": "Support our 'Computers for Classrooms' campaign and bridge the digital divide in education. Your contribution will help equip schools with computers, technology resources, and internet access, ensuring that students have access to modern learning tools. We believe that every child deserves an equal opportunity to thrive in the digital age, and your support can make it happen. Empower the next generation with the skills they need to succeed in an increasingly connected world."
     },
     {
       "id": 6,
       "picture": "https://i.ibb.co/f9GNS8v/Food.png",
-      "title": "Better Food for Everyone",
+      "title": "Meals on Wheels",
       "category": "Food",
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Nourish your body with Product 8, an organic food basket. Enjoy the pure and natural flavors of organically grown produce. From fresh fruits to wholesome grains, it's a healthy choice. Embrace a sustainable lifestyle and savor the goodness of nature!",
-      "price": 39.99
+      "description": "Join our 'Meals on Wheels' program and make a significant difference in the lives of homebound seniors. Your donation will support the delivery of hot, nutritious meals to seniors who may otherwise go hungry. We believe in ensuring that our elders receive the care and nourishment they deserve. Your contribution will not only provide food but also bring companionship and support to those who may be isolated. Help us drive away hunger and loneliness among our senior community members!"
     },
     {
       "id": 7,
       "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
-      "title": " Used Clothing Drive",
+      "title": "Cozy Kids Clothing Drive",
       "category": "Clothing",
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Dress to impress with Product 5, a designer clothing ensemble that exudes elegance. Crafted with precision and attention to detail, this ensemble offers sophistication and style. Whether it's a special occasion or a formal event, you'll stand out in the crowd. Elevate your fashion game and make a statement!",
-      "price": 199.99
+      "description": "Give the gift of warmth and comfort to children in need with our Cozy Kids Clothing Drive. Your donation will provide cozy winter clothing, including sweaters, scarves, boots, and blankets, to children from low-income families. We believe that every child deserves to feel warm and secure during the winter season, and your contribution can make it happen. Let's wrap these kids in love and warmth as we prepare them for a cozy winter ahead!"
     },
     {
       "id": 8,
       "picture": "https://i.ibb.co/y8jP433/Health.png",
-      "title": "Clean water for children",
+      "title": "Healthy Start for Newborns",
       "category": "Health",
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Achieve your fitness goals with Product 6, a comprehensive equipment set. Strengthen your body and improve your endurance. From cardio workouts to strength training, it has you covered. Invest in your health and well-being. Start your fitness journey today!",
-      "price": 199.99
+      "description": "Support our 'Healthy Start for Newborns' initiative and ensure a bright beginning for infants in need. Your donation will provide essential healthcare supplies, vaccinations, maternal support, and access to medical care to newborns and mothers in underserved communities. We believe in giving every baby a healthy start in life, regardless of their circumstances. Join us in providing the care and support that newborns and mothers need for a promising future!"
     },
     {
       "id": 9,
       "picture": "https://i.ibb.co/1T8SLCC/Clothing.png",
-      "title": "Used Clothing Drive",
+      "title": "Winter Shelter Project",
       "category": "Clothing",
       "category_bg_color": "#79C23F33",
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
-      "description": "Step into elegance with Product 9, a fashionable dress that defines style. Its unique design and comfortable fit make it a perfect choice for any occasion. Embrace confidence and grace with every step. Elevate your fashion game and shine like a star!",
-      "price": 149.99
+      "description": "Join our Winter Shelter Project and provide warmth and safety to those experiencing homelessness during the cold winter months. Your donation will support the operation of winter shelters, providing a refuge from the cold for individuals without homes. We believe in making the winter season a bit warmer and safer for our neighbors in need. Your contribution will offer a warm bed, hot meals, and access to essential services for those who have nowhere else to turn."
     },
     {
       "id": 10,
       "picture": "https://i.ibb.co/y8jP433/Health.png",
-      "title": "Clean water for children",
+      "title": "Nutrition for School Kids",
       "category": "Health",
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
-      "description": "Find inner peace with Product 10, a yoga essentials kit. Create a tranquil space for your practice and connect mind, body, and soul. From yoga mats to meditation cushions, it has all you need. Begin your journey to relaxation and well-being today!",
-      "price": 79.99
+      "description": "Empower young minds with proper nutrition through our 'Nutrition for School Kids' program. Your donation will help provide healthy meals, snacks, and nutrition education to schoolchildren, ensuring they have the energy, focus, and nutrition they need to succeed in their studies. We believe in nourishing their minds and bodies for a brighter future. Join us in supporting the educational and nutritional needs of the next generation!"
     },
     {
       "id": 11,
-      "picture": "https://i.ibb.co/f9GNS8v/Food.pngg",
-      "title": "Better Food for Everyonebook",
+      "picture": "https://i.ibb.co/f9GNS8v/Food.png",
+      "title": "Community Garden Expansion",
       "category": "Food",
       "category_bg_color": "#F8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Satisfy your sweet cravings with Product 12, a delicious dessert cookbook. Explore a world of mouthwatering treats, from decadent cakes to creamy ice creams. Impress your guests or indulge in self-care. Treat yourself to the joy of baking!",
-      "price": 19.99
+      "description": "Support the growth of our Community Garden and cultivate a sustainable source of fresh produce for all. Your donation will help expand the garden, providing more fruits, vegetables, and herbs to the community. We believe in nourishing our neighborhood with healthy, homegrown food, and your contribution can help make it happen. Let's dig in, grow together, and create a thriving garden that benefits everyone in our community!"
     },
     {
       "id": 12,
-      "picture": "https://i.ibb.co/JK5pnHq/Education.pngg",
-      "title": "Good education",
+      "picture": "https://i.ibb.co/JK5pnHq/Education.png",
+      "title": "STEM Scholarships for All",
       "category": "Education",
       "category_bg_color": "#FF444A33",
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
-      "description": "Ignite young minds with Product 11, a science exploration kit. Encourage curiosity and hands-on learning. This kit includes interactive experiments and educational materials to make science fun and engaging. Nurture the scientist within!",
-      "price": 59.99
+      "description": "Empower future scientists, engineers, and innovators with our 'STEM Scholarships for All' program. Your donation will provide scholarships to students pursuing careers in STEM fields, ensuring access to quality education, mentorship, and opportunities. We believe in fueling their passion for science and technology and driving progress together. Join us in supporting the dreams and aspirations of aspiring scientists and innovators!"
     }
   ]
 }

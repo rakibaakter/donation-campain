@@ -18,11 +18,11 @@ const DonationDetails = () => {
     setItem(selectedItem);
   }, [donations, id]);
 
-  const { picture, title, description, price, text_button_bg_color } = item;
+  const { title, description, price, text_button_bg_color } = item;
   console.log(item);
   return (
     <div className="w-4/5 mx-auto mt-12">
-      <img className="w-full md:h-[500px] " src={picture} alt="" />
+      <img className="w-full md:h-[500px] " src={item?.picture} alt="" />
       <div className="bg-black opacity-80 w-full p-2 md:p-6 -mt-[56px] md:-mt-[86px]">
         <button
           style={{ backgroundColor: text_button_bg_color }}
