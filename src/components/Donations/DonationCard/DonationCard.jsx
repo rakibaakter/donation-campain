@@ -21,7 +21,7 @@ const DonationCard = ({ donation }) => {
 
   return (
     <div style={card}>
-      <Link to={`/donation/${id}`}>
+      <Link to={`/donations/${id}`}>
         <img className="w-full" src={picture} alt="" />
 
         <div className="p-6">
