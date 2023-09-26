@@ -1,6 +1,6 @@
 import banner from "../../assets/Resources/banner.png";
 
-const Banner = () => {
+const Banner = ({ handleCategories }) => {
   const bannerStyle = {
     backgroundImage: `url(${banner})`,
     height: "70vh",
@@ -16,31 +16,23 @@ const Banner = () => {
             I Grow By Helping People In Need
           </h2>
           <div>
-            <input
-              className="w-1/4 p-3 border "
-              type="text"
-              placeholder="search here..."
-            />
-            <button className="bg-[#FF444A] py-3 px-5 text-white font-bold">
-              Search
-            </button>
+            <form onSubmit={handleCategories}>
+              <input
+                className="w-1/4 p-3 border "
+                type="text"
+                name="categoryName"
+                placeholder="search here..."
+              />
+              <input
+                className="bg-[#FF444A] py-3 px-5 text-white font-bold"
+                type="submit"
+                value="Search"
+              />
+            </form>
           </div>
         </div>
       </div>
     </div>
-    // <div className="relative">
-    //   <div className="h-[70vh] py-10">
-    //     <img className="opacity-30" src={banner} alt="" />
-    //   </div>
-    //   <div className=" absolute bottom-52 left-auto right-auto">
-    //     <div className="space-y-10 text-center">
-    //       <h2 className="text-4xl font-bold">
-    //         I Grow By Helping People In Need
-    //       </h2>
-    //       <input type="text" placeholder="search here..." />
-    //     </div>
-    //   </div>
-    // </div>
   );
 };
 
