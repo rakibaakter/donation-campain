@@ -6,7 +6,7 @@ const Layout = () => {
   const loc = useLocation();
 
   useEffect(() => {
-    document.title = `Donation Campain ${loc.pathname.replace("/", "-")}`;
+    document.title = `Donation Campaign ${loc.pathname.replace("/", "-")}`;
   }, [loc.pathname]);
 
   return (
