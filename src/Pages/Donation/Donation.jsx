@@ -1,36 +1,23 @@
 import { useState } from "react";
 import { getDataFromLocalStore } from "../../LocalStorage/localStore";
 import Donate from "../../components/Donations/Donate/Donate";
+import EmptyDonation from "../../components/EmptyDonation/EmptyDonation";
+import { useEffect } from "react";
+import StoreDonation from "../../components/StoredDonation/StoreDonation";
 
 const Donation = () => {
-  const [dataLength, setDataLength] = useState(4);
+  const [isTrue, setIsTrue] = useState(false);
 
   const data = getDataFromLocalStore();
 
-  // if (data.length > 4) {
-  //   setIsShow(!isShow);
-  // }
+  useEffect(() => {
+    if (data.length > 0) {
+      setIsTrue(true);
+    }
+  }, []);
 
   return (
-    <>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 my-16">
-        {data.slice(0, dataLength).map((item) => (
-          <Donate key={item.id} item={item} />
-        ))}
-      </div>
-      {data.length > dataLength && (
-        <div className={`flex justify-center`}>
-          <button
-            onClick={() => {
-              setDataLength(data.length);
-            }}
-            className="bg-[#FF444A] py-3 px-5 text-white font-bold"
-          >
-            Show All
-          </button>
-        </div>
-      )}
-    </>
+    <div>{isTrue ? <StoreDonation data={data} /> : <EmptyDonation />}</div>
   );
 };
 
